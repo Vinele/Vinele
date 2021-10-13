@@ -1,4 +1,4 @@
-### Hi there 👋
+### Zdoroven\`ki buly 👋
 ![najx1n_0307a543613a48f2cc328c0b8390a6df117ac671](https://user-images.githubusercontent.com/61211244/137187497-068a1eb0-7ed9-4201-8c76-115481e4bb64.png)
 
 
