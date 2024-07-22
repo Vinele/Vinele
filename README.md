@@ -1,4 +1,4 @@
-### Zdoroven\`ki buly 👋
+### Zdorova nachalnik, nachalmik privet 👋
 <img width=1000 src="https://user-images.githubusercontent.com/61211244/137187497-068a1eb0-7ed9-4201-8c76-115481e4bb64.png">
 ## Some Stats:
 <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=Vinele&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=3498DB&icon_color=3498DB&title_color=3498DB&text_color=C9D1D9">
